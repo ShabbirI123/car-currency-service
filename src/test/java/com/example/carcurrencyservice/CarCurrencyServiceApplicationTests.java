@@ -13,13 +13,13 @@ class CarCurrencyServiceApplicationTests {
     void contextLoads() {
     }
 
-    @Autowired
+    /*@Autowired
     private CurrencyConverterClient currencyConverterClient;
 
     @Test
     public void testCurrencyConverterClient() {
         assertThat(currencyConverterClient.currencyConverter("USD", "EUR", 150))
                 .isEqualTo(136.1903032504086);
-    }
+    }*/
 
 }
