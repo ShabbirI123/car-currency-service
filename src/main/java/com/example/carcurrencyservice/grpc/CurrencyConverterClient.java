@@ -18,7 +18,7 @@ public class CurrencyConverterClient {
     private CurrencyConverterGrpc.CurrencyConverterBlockingStub currencyConverterBlockingStub;
 
     public double currencyConverter(String baseCurrency, String targetCurrency, double amount) {
-        ManagedChannel channel = ManagedChannelBuilder.forAddress("3.66.170.209", 8080)
+        ManagedChannel channel = ManagedChannelBuilder.forAddress("localhost", 8080)
                 .usePlaintext()
                 .build();
 

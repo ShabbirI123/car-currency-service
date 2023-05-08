@@ -9,6 +9,7 @@ currencyconverter/CurrencyConverterOuterClass$ConversionRequestOrBuilder.class
 currencyconverter/CurrencyConverterGrpc.class
 currencyconverter/CurrencyConverterOuterClass$ConversionRequest$Builder.class
 com/example/carcurrencyservice/api/CurrencyServiceController$1.class
+com/example/carcurrencyservice/CarCurrencyServiceApplication$1.class
 currencyconverter/CurrencyConverterOuterClass$ConversionResult$1.class
 com/example/carcurrencyservice/api/CurrencyRequest.class
 currencyconverter/CurrencyConverterGrpc$CurrencyConverterFileDescriptorSupplier.class
