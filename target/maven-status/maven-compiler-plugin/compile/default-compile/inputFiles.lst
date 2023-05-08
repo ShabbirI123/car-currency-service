@@ -1,4 +1,5 @@
 /Applications/MAMP/htdocs/car-currency-service/target/generated-sources/protobuf/java/currencyconverter/CurrencyConverterOuterClass.java
+/Applications/MAMP/htdocs/car-currency-service/src/main/java/com/example/carcurrencyservice/kafka/KafkaListeners.java
 /Applications/MAMP/htdocs/car-currency-service/target/generated-sources/protobuf/grpc-java/currencyconverter/CurrencyConverterGrpc.java
 /Applications/MAMP/htdocs/car-currency-service/src/main/java/com/example/carcurrencyservice/grpc/CurrencyConverterClient.java
 /Applications/MAMP/htdocs/car-currency-service/src/main/java/com/example/carcurrencyservice/api/CurrencyRequest.java
